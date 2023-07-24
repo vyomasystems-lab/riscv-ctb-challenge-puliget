@@ -8,4 +8,4 @@ so , i moditfy  the line as and s7,ra,s3
 
 line 25584 andi s5,t1,s0
 as for syntax: andi destination reg,source reg, constant
-so, i moditfy the line as andi s5,t1,4 
+so, i moditfy the line as andi s5,t1,4
