@@ -1,8 +1,9 @@
 in challenge1_logical
 error  
 line 15855  and s7,ra,z4
-because z4 not content any value
+because z4 not contain any value
 so , i moditfy  the line as and s7,ra,s3
+s3 contain same value
 
 
 
